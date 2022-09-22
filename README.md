@@ -4,8 +4,8 @@ This Matlab package provides a set of tools for the comparison, matching and int
 
     @misc{Gab2022,
       author  = {Martin Bauer, Nicolas Charon, Eric Klassen, Sebastian Kurtek, Tom Needham, Thomas Pierron},
-      title   = {The class of $G^{a,b}$-metrics on the space of Euclidean curves: theory and algorithms},  
-      url = {TBD},
+      title   = {Elastic Metrics on Spaces of Euclidean Curves: Theory and  Algorithms},  
+      url = {arxiv:2209.09862},
       publisher = {arXiv},  
       year = {2022},
     }
